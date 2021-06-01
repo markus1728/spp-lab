@@ -1,3 +1,3 @@
 #SPP-Lab
 
-Implementations of the course System and Parallel Programming in C/C++.
+Lab-Implementations of the course System and Parallel Programming in C/C++.
